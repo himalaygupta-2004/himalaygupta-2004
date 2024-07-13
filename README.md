@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Himalay Gupta</h1>
 <h3 align="center">A passionate Computer Science Student commited and dedicated in developing new innovative ideas and proejcts. I'm adaptable and constantly improving, which allows me to stay relevant and effective in diverse scenarios. I harbor an ardent enthusiasm and an insatiable thirst for knowledge, desiring to embark upon a journey of continuous learning across diverse domains.</h3>
 
-- 🤝 I’m looking for help with **Data Structure and Algorithms, MERN AND AI/ML**
+- 🤝 I’m looking for help with **Data Structure and Algorithms, MERN And AI/ML**
 
 - 🌱 I’m currently learning **Mern, DSA, AI/ML, JAVA DEV AND FLUTTER**
 
