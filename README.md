@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **myselfhimalay2004@gmail.com**
 
-- 📄 Know about my experiences [https://coffee-jeri-41.tiiny.site](https://coffee-jeri-41.tiiny.site)
-
 - ⚡ Fun fact **Average guy with some humor in love with tech**
 
 <h3 align="left">Connect with me:</h3>
